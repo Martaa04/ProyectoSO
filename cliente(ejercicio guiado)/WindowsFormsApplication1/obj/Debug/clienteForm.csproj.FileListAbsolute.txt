@@ -80,3 +80,13 @@ C:\share\s1\FicherosPruebaEntorno\Parte_1_ServidorSecuencial_1\Parte_1_ServidorS
 C:\share\s1\FicherosPruebaEntorno\Parte_1_ServidorSecuencial_1\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
 C:\share\s1\FicherosPruebaEntorno\Parte_1_ServidorSecuencial_1\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\share\s1\FicherosPruebaEntorno\Parte_1_ServidorSecuencial_1\Parte_1_ServidorSecuencial_1\cliente\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.AssemblyReference.cache
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.cache
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.CoreCompileInputs.cache
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\marta\Documents\GitHub\ProyectoSO\cliente(ejercicio guiado)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
