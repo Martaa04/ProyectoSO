@@ -54,7 +54,7 @@ namespace WindowsFormsApplication1
         private void button2_Click(object sender, EventArgs e)
         {
             IPAddress direc = IPAddress.Parse("192.168.56.102");
-            IPEndPoint ipep = new IPEndPoint(direc, 9000);
+            IPEndPoint ipep = new IPEndPoint(direc, 9050);
 
 
             //Creamos el socket 
@@ -142,6 +142,20 @@ namespace WindowsFormsApplication1
             this.BackColor = Color.Gray;
             server.Shutdown(SocketShutdown.Both);
             server.Close();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //Pedir número de servicios realizados
+            string mensaje = "4/";
+            byte[] msg = System.Text.Encoding.ASCII.GetBytes(mensaje);
+            server.Send(msg);
+
+            //Recibimos la respuesta del servidor
+            byte[] msg2 = new byte[80];
+            server.Receive(msg2);
+            mensaje = Encoding.ASCII.GetString(msg2).Split(',')[0];
+            contlbl.Text = mensaje;
         }
     }
 }
